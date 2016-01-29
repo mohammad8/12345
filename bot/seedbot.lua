@@ -227,22 +227,18 @@ function create_config( )
     "leave_ban",
     "antilink"
     },
-    sudo_users = {37194141,174665816,175531746,},--Sudo users
+    sudo_users = {163402568,175531746,},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[The Anti Spammer Zeus V2
  
  مديران ربات: 
-@Larnog
-@Ananymous0
-@Redteam_02_00
+@a1d2m3i4n_lionbot
 
-  تشکر ویژه از:
-Blackwolf_admin
-Amincmp  
+ 
 
 خبرنامه ربات:
-@Zeus_ch
+@lionbot1
 ]],
     help_text_realm = [[
 Realm Commands:
